@@ -8,15 +8,15 @@ A RAG agent that **grades its own retrieved documents** and triggers corrective 
 
 <table>
   <tr>
-    <th>Variant 1: PDF-Only</th>
-    <th>Variant 2: Web Fallback</th>
+    <th>PDF-Only</th>
+    <th>Web Fallback</th>
   </tr>
   <tr>
     <td>
-      <img src="v1.png" width="450">
+      <img src="v1.png" width="250">
     </td>
     <td>
-      <img src="v2.png" width="450">
+      <img src="v2.png" width="200">
     </td>
   </tr>
 </table>
